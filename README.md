@@ -1,5 +1,7 @@
 <h2>Este projeto eu aprendi no <a href="https://www.youtube.com/watch?v=1jvxxoW_1TM&list=PLsFVybaG4mOBmLZH65Z5HbR0FieLJJ1_r&index=2">DevClub Projetos</a></h2>
 <br>
+<h1>Trata-se de uma replica do site de musicas Spotify</h1>
+<br>
 <br>
 <br>
 <h2>Tecnologias Utilizadas:</h2>
@@ -13,6 +15,8 @@
   <br>
   <br>
   <h2>Abaixo está a interface do projeto adaptada para celular:</h2>
+  <img width="253" height="518" alt="image" src="https://github.com/user-attachments/assets/2f640e1b-faef-4097-b00a-ef12d719df56" />
+
   
 
   
