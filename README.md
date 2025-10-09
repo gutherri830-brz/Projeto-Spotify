@@ -9,4 +9,10 @@
   <br>
   <br>
   <h2>Abaixo está a interface do projeto em tela de computador:</h2>
+  <img width="1341" height="664" alt="image" src="https://github.com/user-attachments/assets/f187c245-2cd5-4156-a046-4ece81e08850" />
+  <br>
+  <br>
+  <h2>Abaixo está a interface do projeto adaptada para celular:</h2>
+  
+
   
